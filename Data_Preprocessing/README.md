@@ -5,4 +5,4 @@ Where in this code I am using the StandardScaler method. Very Simple.
 I Included Both .py and .ipynb Extension Code
 And I Also Include Datasets with the Name Data.csv
 
-# Thank You
+# Enjoy Machine Learning
