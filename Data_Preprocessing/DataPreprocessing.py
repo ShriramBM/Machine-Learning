@@ -11,6 +11,7 @@ y = datasets.iloc[:,-1].values
 print(x)
 print(y)
 
+# Taking Care of Missing Data
 from sklearn.impute import SimpleImputer
 imputer = SimpleImputer(missing_values=np.nan, strategy='mean')
 imputer.fit(x[:, 1:3])
